@@ -74,7 +74,7 @@ WireFrames en baja fidelidad (bsoquejos) app-Balsamiq: https://balsamiq.cloud/s6
 
 
 
-Investigación UX/UI-Google Docs: https://docs.google.com/document/d/1bhJYwUVqIwDpiaQYvwxVnFXtt97eh9GP9APYghssb2I/edit?usp=sharing
+Investigación UX/UI-Google Docs: https://docs.google.com/document/d/1bhJYwUVqIwDpiaQYvwxVnFXtt97eh9GP9APYghssb2I/edit?tab=t.0
 
 
 
