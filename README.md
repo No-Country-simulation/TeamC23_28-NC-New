@@ -39,7 +39,7 @@ Usamos un documento inicial
 
 
 Descripción
-CitaMed es una aplicación que facilita y gestiona las consultas médicas en paciente para Argentina. Esta aplciación no solo permitirá generar y gestionar las consultas médicas de los pacientes,                                                                                       
+CitaMed es una aplicación que facilita y gestiona las consultas médicas en paciente para Argentina. Esta aplciación no solo permitirá generar y gestionar las consultas médicas de los pacientes, sino que los médicos podrán gestionar como administardores los historiales médicos y así puedan visualizar de manera efectiva optimizando tiempos con sus pacientes.                                                                                     
 
 ________________________________________
 
