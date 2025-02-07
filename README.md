@@ -3,10 +3,18 @@ Bienvenid@s todos a este espacio disruptivo. Gracias por vincularse a este equip
 
 
 Integrantes:
-@Laura Perez De Armas ((UI) y Diseñadora Gráfica) Colombia
-@Miguenz Ludmila (FrontEnd) Argentina 
-@Ariana Ruiz (UX/UI-FrontEnd) Argentina 
-@Paula Badillo-C23-28-nocode-stack TL (UX/UI) TEAM LIDER DOS EQUIPOS EXTERNOS Colombia
+
+
+Laura Perez De Armas ((UI) y Diseñadora Gráfica) Colombia
+
+
+Miguenz Ludmila (FrontEnd) Argentina 
+
+
+Ariana Ruiz (UX/UI-FrontEnd) Argentina 
+
+
+Paula Badillo-C23-28-nocode-stack TL (UX/UI) TEAM LIDER DOS EQUIPOS EXTERNOS Colombia
 
 
 
